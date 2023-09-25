@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24">
+  <rect width="100%" height="100%" fill="none" />
   <path d="M321-240h120v-40h-80v-40h80v-120H321v40h80v40h-80v120Z" fill="none" />
   <path d="M601-240h40v-200h-40v80h-40v-80h-40v120h80v80" fill="none" />
   <path d="M841-518v318q0 33-23.5 56.5T761-120H201q-33 0-56.5-23.5T121-200v-318q-23-21-35.5-54t-.5-72l42-136q8-26 28.5-43t47.5-17h556q27 0 47 16.5t29 43.5l42 136q12 39-.5 71T841-518Z" fill="#ffebc6" />
